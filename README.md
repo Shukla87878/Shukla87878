@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/GYny.gif) width="600"](https://Shukla87878.io)
+[![MasterHead](https://superblog.supercdn.cloud/site_cuid_clfjj1bvw09641lqamnr6lg5b/images/4a-web-dev-2-1686733929500-original.gif)](https://Shukla87878.io)
 <h1 align="center">Hi 👋, I'm Nitish Shukla</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ankitrawat.netlify.app/images/coding.gif">
