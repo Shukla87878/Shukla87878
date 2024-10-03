@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://Shukla87878.io)
+[![MasterHead](https://i.gifer.com/GYny.gif)](https://Shukla87878.io)
 <h1 align="center">Hi 👋, I'm Nitish Shukla</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://ankitrawat.netlify.app/images/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://ankitrawat.netlify.app/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukla87878&label=Profile%20views&color=0e75b6&style=flat" alt="shukla87878" /> </p>
 
