@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/GYny.gif)](https://Shukla87878.io)
+[![MasterHead](https://i.gifer.com/GYny.gif) width="600"](https://Shukla87878.io)
 <h1 align="center">Hi 👋, I'm Nitish Shukla</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ankitrawat.netlify.app/images/coding.gif">
@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 📫 How to reach me **nitishshukla260@gmail.com**
+- ⚡ Honest hobby is **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
