@@ -1,16 +1,13 @@
-[![MasterHead](https://superblog.supercdn.cloud/site_cuid_clfjj1bvw09641lqamnr6lg5b/images/4a-web-dev-2-1686733929500-original.gif)](https://Shukla87878.io)
 <h1 align="center">Hi 👋, I'm Nitish Shukla</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://ankitrawat.netlify.app/images/coding.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://superblog.supercdn.cloud/site_cuid_clfjj1bvw09641lqamnr6lg5b/images/4a-web-dev-2-1686733929500-original.gif">
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 📫 Contact me **nitishshukla260@gmail.com**
+- ⚡ Honest hobby is **Coding**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukla87878&label=Profile%20views&color=0e75b6&style=flat" alt="shukla87878" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shukla87878" alt="shukla87878" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 📫 How to reach me **nitishshukla260@gmail.com**
-- ⚡ Honest hobby is **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
