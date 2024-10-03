@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitish Shukla</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://ankitrawat.netlify.app/images/coding.gif">
+<img align="center" alt="Coding" width="400" margin-right: 10px src="https://ankitrawat.netlify.app/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukla87878&label=Profile%20views&color=0e75b6&style=flat" alt="shukla87878" /> </p>
 
